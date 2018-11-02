@@ -87,7 +87,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.transferservice.TransferServiceApplication</mainClass>
+					<mainClass>com.itrigger.springboot.SpringbootApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
