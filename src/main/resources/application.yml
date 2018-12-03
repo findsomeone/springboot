@@ -1,8 +1,9 @@
+server:
+  port: 8888
 #开发配置
 spring:
   profiles:
     active: dev
-
   datasource:
     hive:
       url: jdbc:hive2://101.201.237.57:10000/stage
